@@ -1,0 +1,140 @@
+/* .addButton {
+  text-align: right;
+  padding: 20px 50px 0px 0px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.topnav {
+  background-color: white;
+  border: solid rgb(117, 109, 109);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-width: 2px;
+  padding: 0.5%;
+  text-align: center;
+}  */
+
+/* For fixed navBar */
+/* .topnav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  padding-top: 2px;
+}
+
+
+/* .link:hover {
+ background-color: #FFC0B1;
+  color: white;
+} */
+/* 
+.link {
+  color: rgb(20, 20, 20);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+} */
+
+/* .dropNav{
+  text-align: center;
+  text-decoration: none;
+  color: rgb(20, 20, 20);
+  padding: 1% 16px 0px 16px;
+}
+
+.dropNav:hover{
+  background-color: #FFC0B1;
+  color: white;
+}
+
+.linkItem{
+  float: left;
+  color: rgb(20, 20, 20);
+  padding: 2%;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.linkItem:hover {
+  background-color: #FFC0B1;
+  color: white;
+}
+
+.linkItemContent{
+  color: rgb(20, 20, 20);
+  padding: 0%;
+  width: 100%;
+}
+
+.linkItemContent:hover {
+  background-color: #FFC0B1;
+  color: white;
+} */
+
+/* .linkR {
+  float: right;
+  color: rgb(20, 20, 20);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+} */
+/* 
+ .loginForm {
+  padding: 5% 25% 0 25% ;
+} 
+
+ @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} 
+
+h1, h2, h3, h4, h5, h6 {
+  color: #2C2424;
+  font-family: Roboto;
+}
+
+/* .logo1{
+  width: 90px;
+  margin: none;
+  padding: none;
+}
+
+.paginationTotal{
+  font-family: Roboto;
+  font-size: 20px;
+} */
+
